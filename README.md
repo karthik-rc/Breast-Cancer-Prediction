@@ -36,19 +36,19 @@ Also, looking at the ROC curve for each of the classifier, the curve for Logisti
 
 1) Decision Tree
 
-<img src="images/DT_roc.PNG" style="zoom:35%;" />
+<img src="images/DT_roc.PNG" style="zoom:30%;" />
 
 2) Logistic Regression
 
-<img src="images/LR_roc.PNG" style="zoom:35%;" />
+<img src="images/LR_roc.PNG" style="zoom:30%;" />
 
 3) KNN Classifier
 
-<img src="images/KNN_roc.PNG" style="zoom:35%;" />
+<img src="images/KNN_roc.PNG" style="zoom:30%;" />
 
 4) SVM Classifier
 
-<img src="images/SVM_roc.PNG" style="zoom:35%;" />
+<img src="images/SVM_roc.PNG" style="zoom:30%;" />
 
 **<u>Lift Curve:</u>**
 
@@ -58,16 +58,16 @@ Considering our desired class 0, all the classifiers have a lift of 2.75 till up
 
 1) Decision Tree
 
-<img src="images/DT_lift.PNG" style="zoom:35%;" />
+<img src="images/DT_lift.PNG" style="zoom:30%;" />
 
 2) Logistic Regression
 
-<img src="images/LR_lift.PNG" style="zoom:35%;" />
+<img src="images/LR_lift.PNG" style="zoom:30%;" />
 
 3) KNN Classifier
 
-<img src="images/KNN_lift.PNG" style="zoom:35%;" />
+<img src="images/KNN_lift.PNG" style="zoom:30%;" />
 
 4) SVM Classifier
 
-<img src="images/SVM_lift.PNG" style="zoom:35%;" />
+<img src="images/SVM_lift.PNG" style="zoom:30%;" />
